@@ -1,10 +1,10 @@
 {
   "name": "JS-TypeWriter-Effect",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test typewriter effect for JS",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Nian980/JS-TypeWriter-Effect/issues"
   },
-  "homepage": "https://Nian980.github.com/JS-TypeWriter-Effect",
+  "homepage": "https://nian980.github.com/JS-TypeWriter-Effect",
   "dependencies": {
     "gh-pages": "^2.0.0"
   }
