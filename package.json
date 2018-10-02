@@ -1,0 +1,23 @@
+{
+  "name": "JS-TypeWriter-Effect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nian980/JS-TypeWriter-Effect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nian980/JS-TypeWriter-Effect/issues"
+  },
+  "homepage": "https://Nian980.github.com/JS-TypeWriter-Effect",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
